@@ -1,6 +1,7 @@
 # `A`pplication `W`earable `E`venement
 
-## Auteur : `BEYA NTUMBA Joel` Lien git : `https://github.com/joelbeya/A.W.E.git`
+## Auteur : `BEYA NTUMBA Joel` 
+## Lien git : `https://github.com/joelbeya/A.W.E.git`
 
 
 + Développement d'une application Wear pour envoyer des messages courts destinés à un groupe de

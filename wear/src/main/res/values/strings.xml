@@ -1,26 +1,12 @@
 <resources>
-    <string name="app_name">A.W.E</string>
+    <string name="app_name">EventAppWear</string>
     <!--
     This string is used for square devices and overridden by hello_world in
     values-round/strings.xml for round devices.
     -->
     <string name="hello_world">Hello Square World!</string>
-    <string name="notifi">Talk to the handheld</string>
-
-    <string name="reply_label">Reply</string>
-    <string name="reply_name">Me</string>
-
-    <string name="title_activity_big_text_main">BigTextStyle Main Activity</string>
-    <string name="title_activity_big_picture_main">BigPictureStyle Main Activity</string>
-    <string name="title_activity_inbox_main">InboxStyle Main Activity</string>
-    <string name="title_activity_messaging_main">MessagingStyle Main Activity</string>
-
-    <string name="floating_text">Pick Notification Style</string>
-    <string name="default_speed">0</string>
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
-    <string name="walk">walk</string>
-
-    <string name="hello_round">Hello Round World!</string>
-    <string name="hello_square">Hello Square World!</string>
+    <string name="hour">Hour</string>
+    <string name="description">Application Wearable Event</string>
+    <string name="theText">You are out of ambient mode ... You can interact!</string>
+    <string name="verifGPS">Hardware GPS available?</string>
 </resources>

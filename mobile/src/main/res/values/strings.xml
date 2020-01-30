@@ -1,8 +1,4 @@
 <resources>
-    <string name="app_name">A.W.E</string>
-    <string name="reply_label">reply</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">EventAppWear</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_message">MessageActivity</string>
-    <string name="button">Send to Message Activity</string>
 </resources>
